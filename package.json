@@ -1,0 +1,16 @@
+{
+  "name": "JirachiCalc",
+  "main": "shinyJirachiCalc.js",
+  "description": "Finds the perfect time to save to RNG a Shiny WISHMKR Jirachi",
+  "license": "MIT",
+  "readme": "README.md",
+  "author": "zaksabeast",
+  "version": "0.1.0",
+  "scripts": {
+      "start": "node shinyJirachiCalc.js"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}
